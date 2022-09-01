@@ -1,3 +1,3 @@
-1. # My first read me
-2. . Just updating
-3. . I'm great
+My first read me
+.Just updating
+. I'm great
